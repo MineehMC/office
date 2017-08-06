@@ -5,7 +5,7 @@ I am writing to request that an old plugin be added onto Poggit Release. Details
 <!-- Please fill in the form under the "Value" column. You may leave the spaces or delete them. -->
 
 #### Plugin Name
-<!-- The name of the plugin here -->
+<!-- Add World Edit plugin pls -->
 
 
 
